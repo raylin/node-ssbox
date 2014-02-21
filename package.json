@@ -1,6 +1,6 @@
 {
   "name": "node-ssbox",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "SSBox node.js library",
   "main": "index.js",
   "scripts": {
@@ -9,12 +9,20 @@
   "keywords": [
     "ssbox"
   ],
-  "author": "Ray Lin",
+  "author": {
+    "name": "Ray Lin",
+    "email": "lieeray4136@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raylin/node-ssbox.git"
+  },
   "license": "MIT",
   "dependencies": {
     "request": "~2.34.0",
     "async": "~0.2.10",
-    "lodash": "~2.4.1"
+    "lodash": "~2.4.1",
+    "archiver": "~0.6.1"
   },
   "devDependencies": {
     "should": "~3.1.2",
