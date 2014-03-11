@@ -1,6 +1,6 @@
 {
   "name": "node-ssbox",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "SSBox node.js library",
   "main": "index.js",
   "scripts": {
